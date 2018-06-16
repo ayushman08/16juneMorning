@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeUI/Drop-In/BTDropInSelectPaymentMethodViewController.m \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeUI/Drop-In/BTDropInSelectPaymentMethodViewController.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BraintreeCore.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTAPIClient.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTClientMetadata.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTConfiguration.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTJSON.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTAppSwitch.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTBinData.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTClientToken.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTEnums.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTErrors.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTHTTPErrors.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTLogger.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTPostalAddress.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTPaymentMethodNonce.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTPaymentMethodNonceParser.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTTokenizationService.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCore/Public/BTViewControllerPresentingDelegate.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeUI/Public/BTUI.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeUI/Public/BTUIPaymentOptionType.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeUI/Public/BTUIVectorArtView.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeUI/Drop-In/BTDropInUtil.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeCard/Public/BTCardNonce.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeUI/Views/BTUIViewUtil.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeUI/Models/BTUICardType.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeUI/Localization/BTUILocalizedString.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeUI/Public/BTDropInViewController.h \
+  /Users/surabhigupta/Desktop/ReactNative/CollectiveChild/CollectiveChild/node_modules/react-native-braintree-xplat/ios/RCTBraintree/Braintree/BraintreeUI/Drop-In/Localization/BTDropInLocalizedString.h

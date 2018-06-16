@@ -1,0 +1,55 @@
+{
+  "_from": "react-native-app-intro-slider",
+  "_id": "react-native-app-intro-slider@0.2.4",
+  "_inBundle": false,
+  "_integrity": "sha512-lKI1jp9L0rGykYoonAw/4dE30Qm7RD1yklfGt5NnY1Ok6OchRJtr2IcHZ/GOklTNj5FaCR9JiuYn3zFOX+GkQg==",
+  "_location": "/react-native-app-intro-slider",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-app-intro-slider",
+    "name": "react-native-app-intro-slider",
+    "escapedName": "react-native-app-intro-slider",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-app-intro-slider/-/react-native-app-intro-slider-0.2.4.tgz",
+  "_shasum": "e85e5aab826fd6c131f197ab7878d6686e7b468f",
+  "_spec": "react-native-app-intro-slider",
+  "_where": "/Users/sourabhtripathi/Desktop/CollectiveChild",
+  "author": {
+    "name": "Jacob Lauritzen",
+    "email": "jacsebl@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jacse/react-native-app-intro-slider/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple and configurable app introduction slider for react native",
+  "homepage": "https://github.com/jacse/react-native-app-intro-slider",
+  "keywords": [
+    "swiper",
+    "App",
+    "Intro",
+    "ios",
+    "android",
+    "react-component",
+    "react-native",
+    "slider"
+  ],
+  "license": "MIT",
+  "main": "AppIntroSlider.js",
+  "name": "react-native-app-intro-slider",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacse/react-native-app-intro-slider.git"
+  },
+  "version": "0.2.4"
+}
